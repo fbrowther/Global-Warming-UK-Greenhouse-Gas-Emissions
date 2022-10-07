@@ -1,12 +1,13 @@
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
+DAV Project 1 Group Challenge
 
-## Team - Group 4 (4)
+## Team - Group 4 (4)
 * Grace Cheuk (gw-sc)
 * Farjana Rowther (fbrowther)
 * Navindeep Bains (navinbains)
 * Salma Abdirahman (Salma-abdirahman)
 
-## Background 
+## Background 
 
 ![greenhousegas](Images/greenhouse-gas-emissions-606x303.jpeg)
 
@@ -23,7 +24,11 @@ Compare the recorded year statistics
 4. How do the highest sectors and sources compare?
 Conclude the trends of overall of emissions in the UK
 
-## Sources
+[Project 1 Rubric](https://docs.google.com/document/d/1fPa8EXPb5caZyzG2EdhzyWyhta9jC62siFMctNCvKog/edit)
+
+- - -
+
+## References
 * https://climate-change.data.gov.uk/ 
 * 2019 UK greenhouse gas emissions: final figures – dataset of emissions by source
 https://beta.gss-data.org.uk/cube/explore?uri=http%3A%2F%2Fgss-data.org.uk%2Fdata%2Fgss_data%2Fclimate-change%2Fbeis-2019-uk-greenhouse-gas-emissions-final-figures-dataset-of-emissions-by-source-catalog-entry
@@ -31,3 +36,5 @@ https://beta.gss-data.org.uk/cube/explore?uri=http%3A%2F%2Fgss-data.org.uk%2Fdat
 https://beta.gss-data.org.uk/cube/explore?uri=http%3A%2F%2Fgss-data.org.uk%2Fdata%2Fgss_data%2Fclimate-change%2Fbeis-2019-uk-greenhouse-gas-emissions-final-figures-dataset-of-emissions-by-end-user-catalog-entry 
 * Image source: Future Learn
 https://www.futurelearn.com/info/blog/greenhouse-gases-emissions-environment
+
+- - -
