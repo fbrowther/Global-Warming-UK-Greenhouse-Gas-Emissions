@@ -1,10 +1,10 @@
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
 
 ## Team - Group 4 (4)
-•    Grace Cheuk (gw-sc)
-•    Farjana Rowther (fbrowther)
-•    Navindeep Bains (navinbains)
-•    Salma Abdirahman (Salma-abdirahman)
+* Grace Cheuk (gw-sc)
+* Farjana Rowther (fbrowther)
+* Navindeep Bains (navinbains)
+* Salma Abdirahman (Salma-abdirahman)
 
 ## Background 
 
