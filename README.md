@@ -14,14 +14,14 @@ Global warming is unfortunately becoming more evident in recent years and is hav
 
 ## Who, what, where, when?
 
-* Who is responsible for most of our emissions in the UK?
-    *Compare sector vs sector and end user vs end user
-* What is responsible for most of our emissions in the UK?
-    *Compare the sources of emissions
-* When have emissions been highest in the UK?
-    *Compare the recorded year statistics
-* How do the highest sectors and sources compare?
-    *Conclude the trends of overall of emissions in the UK
+1. Who is responsible for most of our emissions in the UK?
+Compare sector vs sector and end user vs end user
+2. What is responsible for most of our emissions in the UK?
+Compare the sources of emissions
+3. When have emissions been highest in the UK?
+Compare the recorded year statistics
+4. How do the highest sectors and sources compare?
+Conclude the trends of overall of emissions in the UK
 
 ## Sources: 
 * https://climate-change.data.gov.uk/ 
