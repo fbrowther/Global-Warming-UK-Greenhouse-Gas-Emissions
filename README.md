@@ -1,12 +1,6 @@
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
 DAV Project 1 Group Challenge
 
-## Team - Group 4 (4)
-* Grace Cheuk (gw-sc)
-* Farjana Rowther (fbrowther)
-* Navindeep Bains (navinbains)
-* Salma Abdirahman (Salma-abdirahman)
-
 ## Background 
 
 ![greenhousegas](Images/greenhouse-gas-emissions-606x303.jpeg)
@@ -38,3 +32,9 @@ https://beta.gss-data.org.uk/cube/explore?uri=http%3A%2F%2Fgss-data.org.uk%2Fdat
 https://www.futurelearn.com/info/blog/greenhouse-gases-emissions-environment
 
 - - -
+
+Team - Group 4 (4)
+* Grace Cheuk (gw-sc)
+* Farjana Rowther (fbrowther)
+* Navindeep Bains (navinbains)
+* Salma Abdirahman (Salma-abdirahman)
