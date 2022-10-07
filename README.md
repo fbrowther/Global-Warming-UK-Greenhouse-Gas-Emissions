@@ -1,4 +1,4 @@
-# Documenting newer evidence(s) for local climate change
+# Documenting newer evidence(s) of local climate change
 - Farjana (Cyclone), Grace (Heat wave), Navin (Forest fire), Salma (Rainfall)
 
 Global warming and extreme weather conditions unfortunately are becoming much more evident in the recent years and is having a devastating impact on populations globally.
@@ -9,7 +9,7 @@ This sparked our interest and led to us wanting to identify and demonstrate extr
 (b) heat waves 
 (c) cyclone activities 
 (d) forest fire
-We will be analyszing the weather data for either a state /country or a specific geographical location of interest.
+We will be analyszing the weather data for the chosen state /country or a specific geographical location of interest.
 
 We will also be discussing whether a specific geographic location is experiencing an extreme weather condition due to a specific reason that pertains to the activities surrounding the area (such as increased manufacturing, deforestation or other modern developmental activities) or due to a domino effect of the global warming in general.
 
