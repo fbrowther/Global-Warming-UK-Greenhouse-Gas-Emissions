@@ -10,7 +10,9 @@ This sparked our interest and led to us wanting to identify and demonstrate extr
 (c) cyclone activities 
 (d) forest fire
 We will be analyszing the weather data for either a state /country or a specific geographical location of interest.
+
 We will also be discussing whether a specific geographic location is experiencing an extreme weather condition due to a specific reason that pertains to the activities surrounding the area (such as increased manufacturing, deforestation or other modern developmental activities) or due to a domino effect of the global warming in general.
+
 We will employ public weather data repositories and API to complete the project - (1) Gather datasets specific for the weather matrices (2) Merge datasets (3) Analyse data and find insights (4) Create visualisation(s) (5) Perform statistical analysis (6) Create presentation to demonstrate own branch of work
 
 Sources of dataset- 
