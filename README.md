@@ -1,5 +1,5 @@
 # Documenting newer evidence(s) of global climate change
-- Grace (Heat wave), Farzana (Cyclone), Navin (Forest fire), Salma (Rainfall)
+- Farjana (Cyclone), Grace (Heat wave), Navin (Forest fire), Salma (Rainfall)
 
 Global warming and extreme weather conditions unfortunately are becoming much more evident in the recent years and is having a devastating impact on populations globally.
 We were moved by a data visualisation that was published in the NYTimes recently that demonstrated using machine learning and predictive analytics on how monsoon in south Asia is becoming more extreme and in which specific region it is likely to get even worse.
