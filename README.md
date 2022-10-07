@@ -2,7 +2,7 @@
 - Farjana (Cyclone), Grace (Heat wave), Navin (Forest fire), Salma (Rainfall)
 
 Global warming and extreme weather conditions unfortunately are becoming much more evident in the recent years and is having a devastating impact on populations globally.
-We were moved by a data visualisation that was published in the NYTimes recently that demonstrated using machine learning and predictive analytics how monsoon in south Asia is becoming more extreme and in which specific region it is likely to get even worse1.
+We were moved by a data visualisation published in the NYTimes recently that demonstrated using machine learning and predictive analytics, how monsoon in south Asia is becoming more extreme and in which specific region it is likely to get even worse1.
 
 This sparked our interest and led to us wanting to identify and demonstrate extreme weather changes for the following four weather matrices -
 (a) increased rainfall and floods 
