@@ -1,4 +1,4 @@
-# Documenting newer evidence(s) of global climate change
+# Documenting newer evidence(s) of local climate change
 - Farjana (Cyclone), Grace (Heat wave), Navin (Forest fire), Salma (Rainfall)
 
 Global warming and extreme weather conditions unfortunately are becoming much more evident in the recent years and is having a devastating impact on populations globally.
