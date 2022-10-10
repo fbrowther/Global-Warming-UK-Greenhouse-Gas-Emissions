@@ -1,5 +1,5 @@
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
-DAV Module 7&8 - Project 1 Group Challenge
+DAV Module 7 & 8 - Project 1 Group Challenge
 
 ## Background 
 
