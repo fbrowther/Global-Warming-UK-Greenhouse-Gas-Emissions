@@ -2,7 +2,7 @@
 
 
 # 1. Which sector  is responsible for most of our emissions in the UK?
-#   Compare sector vs sector and end user vs end user
+#   Compare sector vs sector
 #
 # Sector v Sector - 1. Need to find the total emissions per Sector
 #                 - 2. We need to compare Sector vs Sector emissions to compare and contrast
