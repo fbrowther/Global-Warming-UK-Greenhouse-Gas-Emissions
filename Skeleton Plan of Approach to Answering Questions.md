@@ -1,5 +1,7 @@
 # Skeleton Plan of Approach to Answering Questions
 
+![ghgskeleton](Images/maxresdefault.jpeg)
+
 ## 1. Which sector  is responsible for most of our emissions in the UK?
 
 Compare sector vs sector
@@ -33,10 +35,10 @@ Compare the sources of emissions (i.e. fuel type)
 
 Compare the recorded year statistics
 
-###Total Emissions
+### Total Emissions
 - a. We need to calculate the total emissions emitted per year
 - b. We need to compare and contrast total emissions for the period 
 - c. We can display the data in a bar chart and a line graph to show growth and particular years of interest
 
- ##Conclude the trends of overall of emissions in the UK
+ ## Conclude the trends of overall of emissions in the UK
 Observations and insights
