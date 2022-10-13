@@ -1,5 +1,7 @@
 # Skeleton Plan of Approach to Answering Questions
 
+![ghgskeleton](Images/maxresdefault.jpeg)
+
 ## 1. Which sector  is responsible for most of our emissions in the UK?
 
 Compare sector vs sector
