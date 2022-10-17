@@ -5,7 +5,7 @@ DAV Module 7 & 8 - Project 1 Group Challenge
 
 ![greenhousegas](Images/greenhouse-gas-emissions-606x303.jpeg)
 
-Global warming is unfortunately becoming more evident in recent years and is having a devastating impact on populations globally. We wanted to find out how much greenhouse gas emissions has been contributing to global warming. 
+Global warming is unfortunately becoming more evident in recent years and is having a devastating impact on populations globally. We wanted to find out how much greenhouse gas emissions has been contributing to global warming in the UK. 
 
 In order to analyze this, we looked specifically at the dataset for UK from 'https://climate-change.data.gov.uk/' data repository for the period of 1990-2020. 
 
