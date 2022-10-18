@@ -46,6 +46,9 @@ Observations and insights
 [Project 1 Rubric](https://docs.google.com/document/d/1fPa8EXPb5caZyzG2EdhzyWyhta9jC62siFMctNCvKog/edit)
 
 
+
+
+
 ## Observations and insights
 
 The two datasets were obtained from 'https://climate-change.data.gov.uk/' cleaned and unnessary columns were taken out before commencing the analysis.
