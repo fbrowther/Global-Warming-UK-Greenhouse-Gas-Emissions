@@ -96,11 +96,11 @@ In order to dive deeper into the four major sectors that are responsible for the
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20Endusers.png)
 
 # 4th Contributor
-## Top 10 Energy sector activities that contributed to greenhouse gase emission.
-### By Source
+## Top 10 Energy sector activities that contributed to greenhouse gase emission (by source).
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10EnergyActivities-by%20source.png)
-## Top 10 Land related activities that contributed to greenhouse gase emission.
-### By End-users
+## Top 10 Land related activities that contributed to greenhouse gase emission (by end-users.
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
 
 
