@@ -17,37 +17,31 @@ First and formost, two datasets were obtained from the database, one archived on
 ![ghgskeleton](Images/maxresdefault.jpeg)
 
 ## 1. Which sector(s) are responsible for most of our emissions in the UK? 
-### Sector v Sector
-- a. Need to find the total emissions per Sector
-- b. We need to compare Sector vs Sector emissions to compare and contrast
-- c. We need to display the information in a visualisation, a pie chart would lend itself well to this data. 
-
 
 ## 2. Which end user is responsible for most of our emissions in the UK?
-Compare user vs user 
-### User v User
- - a. We need to find the total emissions per User
- - b. We need to compare User vs User emissions to compare and contrast
- - c. We need to display the information in a visualisation, a pie chart would lend itself well to this data. 
  
-## 3. What is responsible for most of our emissions in the UK?
-Compare the sources of emissions (i.e. fuel type)
+## 3. What are the top 4 contributing sectors in the UK?
 
-### Emissions
-- a. We need to find the categories of fuel 
-- b. We need to find the total amount of emissions attributable to each fuel source
-- c. We need to display the total emissions per source in a visualisation, a bar chart would work well. 
-- d. We can analyse the data over time to see the growth of one fuel type vs the decline in another. 
+## 4. What are top 10 activities of the major contributing sectors in the UK?
 
-## 4. When have emissions been highest in the UK?
-Compare the recorded year statistics
+## 5. What is the trend with regards to the activities of the major contributing sectors in the UK?
+### Did the trend change for the entire timeframe of the dataset?
 
-### Total Emissions
-- a. We need to calculate the total emissions emitted per year
-- b. We need to compare and contrast total emissions for the period 
-- c. We can display the data in a bar chart and a line graph to show growth and particular years of interest
+## 6. All the sectors combined which activities contribute to most emission in the UK?
 
-## Conclude the trends of overall of emissions in the UK
+## 7. What are the fuels whcih contribute to the total emission in the UK?
+
+## 8. Composition of the emission?
+
+## 9. Top emitters of Carbon dioxide?
+
+## 10. Top emitters of Methane?
+
+## 11. Top emitters of Nitrous oxide?
+
+## 12. Top emitters of Hydroflurocarbons?
+
+## Conclude the trends of overall emissions in the UK
 Observations and insights
 
 [Project 1 Rubric](https://docs.google.com/document/d/1fPa8EXPb5caZyzG2EdhzyWyhta9jC62siFMctNCvKog/edit)
