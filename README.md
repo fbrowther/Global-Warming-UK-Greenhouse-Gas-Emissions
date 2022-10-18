@@ -63,11 +63,14 @@ Unlike the popuplar opinion that transport is a major player, the results show t
 In order to dive deeper into the four major sectors, we grouped together the dataset based on the Agriculture, Business, Transport, Energy & Land related activities using loc function and looked at the activities that were performed within these sectors.
 
 # 1st Contributor
-## Top 10 Agriculture activities that contributed to greenhouse gase emission.
+## Top 10 Agricultural activities that contributed to greenhouse gase emission.
 ### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20source.png)
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20Endusers.png)
+
+The top 10 activities of the Agricultural scetor (for both by source and end-users) included - 
+Spreading, Grazing, Storage, Housing, Yarding, Urea application, Ammonium sulphate & diammonium phosphate application, Ammonium nitrate application, Calcium ammonium nitrate application and Other nitrogen including compounds application.                                                
 
 # 2nd Contributor
 ## Top 10 Business activities that contributed to greenhouse gase emission.
@@ -76,12 +79,19 @@ In order to dive deeper into the four major sectors, we grouped together the dat
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusinessActivities-by%20Endusers.png)
 
+The top 10 activities of the business scetor (for both by source and end-users) involved- 
+(1) the use of natural gas, coal, Gas oil, Fuel oil in industrial combustion & 
+(2) the use of Halocarbon bank hfc 134a, Halocarbon used for manufacturing hfc 134a, Halocarbon bank hfc 125, Halocarbon used for manufacturing hfc 125, Halocarbon in products at disposal hfc 134a, Halocarbon bank hfc 32 in refrigeration and air conditioning.
+
 # 3rd Contributor
 ## Top 10 Transport sector activities that contributed to greenhouse gase emission.
 ### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20source.png)
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20Endusers.png)
+
+The top 10 activities of the transport scetor (for both by source and end-users) included the use of
+Derv (diesel oil for road vehicles, Petrol, Gas oil, Aviation turbine fuel, Fuel oil, Aviation spirit,           Natural gas, Lubricants, Lpg, Burning oil, Coal, Biodiesel, Urea consumption, and Bio mtbe. 
 
 # 4th Contributor
 ## Top 10 Energy sector activities that contributed to greenhouse gase emission (by source).
