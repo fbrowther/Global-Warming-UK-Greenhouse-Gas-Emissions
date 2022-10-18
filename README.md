@@ -72,7 +72,7 @@ In order to dive deeper into the four major sectors, we grouped together the dat
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20Endusers.png)
 
-The top 10 activities of the Agricultural scetor (by source and end-users) included - 
+The top 10 activities of the Agricultural sector (by source and end-users) included - 
 Spreading, Grazing, Storage, Housing, Yarding, Urea application, Ammonium sulphate & diammonium phosphate application, Ammonium nitrate application, Calcium ammonium nitrate application and Other nitrogen including compounds application.                                                
 
 # 2nd Contributor
@@ -82,7 +82,7 @@ Spreading, Grazing, Storage, Housing, Yarding, Urea application, Ammonium sulpha
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusinessActivities-by%20Endusers.png)
 
-The top 10 activities of the business scetor (by source and end-users) involved- 
+The top 10 activities of the business sector (by source and end-users) involved- 
 (1) the use of natural gas, coal, Gas oil, Fuel oil in industrial combustion & 
 (2) the use of Halocarbon bank hfc 134a, Halocarbon used for manufacturing hfc 134a, Halocarbon bank hfc 125, Halocarbon used for manufacturing hfc 125, Halocarbon in products at disposal hfc 134a, Halocarbon bank hfc 32 in refrigeration and air conditioning.
 
@@ -93,7 +93,7 @@ The top 10 activities of the business scetor (by source and end-users) involved-
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20Endusers.png)
 
-The top 10 activities of the transport scetor (by source and end-users) included the use of
+The top 10 activities of the transport sector (by source and end-users) included the use of
 Derv (diesel oil for road vehicles, Petrol, Gas oil, Aviation turbine fuel, Fuel oil, Aviation spirit,           Natural gas, Lubricants, Lpg, Burning oil, Coal, Biodiesel, Urea consumption, and Bio mtbe. These sources were used in HGVs, passenger cars, light duty vehicles, buses, military aircraft, civil aviation, fishing vessels, national navigation, railway combustion, mopeds and motorcycles.
 
 # 4th Contributor
@@ -103,10 +103,16 @@ Derv (diesel oil for road vehicles, Petrol, Gas oil, Aviation turbine fuel, Fuel
 The top most activties of the energy sector include the use of natural gas, non-fuel combustion, Gas oil, Lpg, Coal, gas flare, Opg, Msw, Coke oven gas, and Fuel oil for power stations, refineries, and manufacturing of solid fuels.                                  
 
 
-## Top 10 Land-related activities that contributed to greenhouse gase emission (by end-users.
+## Top 10 Land use -related activities that contributed to greenhouse gase emission (by end-users.
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
 
-The top most land-related activties include Non-fuel-combustion and Biomass                 
+The top most land use -related activties include Non-fuel-combustion and Biomass. 
+
+Non-fuel consumption - Drainage of organic soils releases CO2 and NO2 into the atmosphere), Farming (Cropland), Wetland - Plants growing in wetlands emit methane to the atmosphere. 
+
+Biomass - Grassland, crop land, forest land and settlements burning
+
+
 ---------
 
 ## References
