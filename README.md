@@ -48,7 +48,7 @@ Observations and insights
 
 ## Observations and insights
 
-The two datasets were obtained from 'https://climate-change.data.gov.uk/' cleaned and unnessary columns were taken out before commmencing the analysis.
+The two datasets were obtained from 'https://climate-change.data.gov.uk/' cleaned and unnessary columns were taken out before commencing the analysis.
 
 ## Major Sectors
 First and formost we determined the major sectors that contributed towards the green gas emission for the UK (from 1990-2020). We compared the analysis between sources and end-users dataset. 
