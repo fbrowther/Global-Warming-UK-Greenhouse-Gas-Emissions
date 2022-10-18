@@ -15,9 +15,9 @@ First and formost, two datasets were obtained from the database, one archived on
 
 ![ghgskeleton](Images/maxresdefault.jpeg)
 
-## 1. Which major sectors are responsible for most of our emissions in the UK? 
+## 1. Which sector(s) are responsible for most of our emissions in the UK? 
 
-Compare sector vs sector
+
 
 ### Sector v Sector
 - a. Need to find the total emissions per Sector
@@ -62,15 +62,31 @@ Observations and insights
 
 The two datasets were obtained from 'https://climate-change.data.gov.uk/' cleaned and unnessary columns were taken out before commmencing the analysis.
 
+## Major Sectors
 First and formost we determined the major sectors that contributed towards the green gas emission for the UK (from 1990-2020). We compared the analysis between sources and end-users dataset. 
 
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Sectors%20responsible%20for%20GG%20emissions.png)
 
-![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Sectors%20responsible%20-endusers.png))
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Sectors%20responsible%20-endusers.png)
 
 Unlike the popuplar opinion that transport is a major player, this analysis proved that this sector consitutes only 10% of the total while
-87% of the emmision is contributed by the top 4 sectors which includes Agriculture, Business, Transport, Energy and Land related activities.
+87% of the emission is contributed by the top 4 sectors which includes Agriculture, Business, Transport, Energy and Land related activities.
 
+In order to dive deeper into the four major sectors that are responsible for the 87% of the emission, we grouped together the dataset based on the Agriculture, Business, Transport, Energy & Land related activities and looked at the activities that were performed within these sectors.
+
+## Top 10 Agriculture activities that contributed to greenhouse gase emission.
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20source.png)
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20Endusers.png)
+## Top 10 Business activities that contributed to greenhouse gase emission.
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusiActivities-by%20source.png)
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusinessActivities-by%20Endusers.png)
+## Top 10 Transport sector activities that contributed to greenhouse gase emission.
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20source.png)
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20Endusers.png)
+## Top 10 Energy sector activities that contributed to greenhouse gase emission.
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10EnergyActivities-by%20source.png)
+## Top 10 Land related activities that contributed to greenhouse gase emission.
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
 ---------
 
 ## References
