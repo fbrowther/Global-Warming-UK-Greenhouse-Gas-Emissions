@@ -114,14 +114,20 @@ Biomass - Grassland, crop land, forest land and settlements burning
 
 ## Trends in 4 major sectors from 1990-2020 by source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Agriculture%20-%20Timeframe%20.png)
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Business%20-%20Timeframe%20.png)
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Transport%20-%20Timeframe%20.png)
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Energy-%20Timeframe%20.png)
 
 ## Trends in 4 major sectors from 1990-2020 by End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Agri-timeframe-endusers.png)
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Business-timeframe-endusers.png)
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Transport-timeframe-endusers.png)
+
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Land-timeframe-endusers.png)
 
 
