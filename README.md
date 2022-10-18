@@ -121,6 +121,9 @@ Biomass - Grassland, crop land, forest land and settlements burning
 
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Energy-%20Timeframe%20.png)
 
+In order to identify whether there has been any changes to the activities of the top contributors we have grouped the entire dataset based on sectors and looked at the trend in their activities for the entire duration of the dataset. A continual upwards trend contributing consistently to the greenhouse gases emission for agriculture, business and transport sector was noted. However, in case of the energy sector there has been slow but definite downward movement. With UK government's plan to phase out of UK's coal plants within the next few years should see further improvement in this sector.
+
+
 ## Trends in 4 major sectors from 1990-2020 by End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Agri-timeframe-endusers.png)
 
@@ -130,6 +133,7 @@ Biomass - Grassland, crop land, forest land and settlements burning
 
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Land-timeframe-endusers.png)
 
+A continual upwards trend contributing consistently to the greenhouse gases emission for agriculture, business, transport and land use -related sector was noted. 
 
 ---------
 
