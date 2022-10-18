@@ -58,7 +58,18 @@ Observations and insights
 
 [Project 1 Rubric](https://docs.google.com/document/d/1fPa8EXPb5caZyzG2EdhzyWyhta9jC62siFMctNCvKog/edit)
 
-- - -
+## Results
+
+The two datasets were obtained from 'https://climate-change.data.gov.uk/' cleaned and unnessary columns were taken out before commmencing the analysis.
+First and formost we determined the major sectors that contributored towards the green gas emission for the UK (from 1990-2020). We compared the analysis between sources and end-users dataset. 
+
+(http://)
+
+
+
+
+
+---------
 
 ## References
 * https://climate-change.data.gov.uk/ 
