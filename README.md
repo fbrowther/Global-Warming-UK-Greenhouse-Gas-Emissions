@@ -5,13 +5,17 @@ DAV Module 7 & 8 - Project 1 Group Challenge
 
 ![greenhousegas](Images/greenhouse-gas-emissions-606x303.jpeg)
 
-Global warming is unfortunately becoming more evident in recent years and is having a devastating impact on populations globally. We wanted to find out how much greenhouse gas emissions has been contributing to this. To sample, we looked specifically at the data collection in the UK.
+Global warming is unfortunately becoming more evident in recent years and is having a devastating impact on populations globally. We wanted to find out how much greenhouse gas emissions has been contributing to global warming in the UK. 
+
+In order to analyze this, we looked specifically at the dataset for UK from 'https://climate-change.data.gov.uk/' data repository for the period of 1990-2020. 
+
+First and formost, two datasets were obtained from the database, one archived on the basis of source of the greenhouse gas emmision and the other archived on the basis of End-users responsible for emission.
 
 ## Who, what, where, when?
 
 ![ghgskeleton](Images/maxresdefault.jpeg)
 
-## 1. Which sector  is responsible for most of our emissions in the UK?
+## 1. Which major sectors are responsible for most of our emissions in the UK? 
 
 Compare sector vs sector
 
