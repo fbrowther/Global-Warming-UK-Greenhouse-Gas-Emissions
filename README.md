@@ -57,10 +57,10 @@ First and formost we determined the major sectors that contributed towards the g
 
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Sectors%20responsible%20-endusers.png)
 
-Unlike the popuplar opinion that transport is a major player, this analysis proved that this sector consitutes only 10% of the total while
-87% of the emission is contributed by the top 4 sectors which includes Agriculture, Business, Transport, Energy and Land related activities.
+Unlike the popuplar opinion that transport is a major player, the results show that transport sector consitutes to only 10% of the total while
+87% of the emission is contributed by the top 4 other sectors which include Agriculture, Business, Transport, Energy and Land related activities.
 
-In order to dive deeper into the four major sectors that are responsible for the 87% of the emission, we grouped together the dataset based on the Agriculture, Business, Transport, Energy & Land related activities and looked at the activities that were performed within these sectors.
+In order to dive deeper into the four major sectors, we grouped together the dataset based on the Agriculture, Business, Transport, Energy & Land related activities using loc function and looked at the activities that were performed within these sectors.
 
 # 1st Contributor
 ## Top 10 Agriculture activities that contributed to greenhouse gase emission.
