@@ -143,6 +143,28 @@ A continual upwards trend contributing consistently to the greenhouse gases emis
 
 Refrigeration & air conditioning, soil emission (direct and indirect), Industrial combustion, agriculture soil management, animal waste management and national navigation (shipping) contributes to most emmsion within the UK.
 
+## What are the fuels whcih contribute to the total emission?
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Fueltype-souces.png)
+
+Burning of the 'actual' fuel contributed to a third of tthe emission in the UK while the remaining 2/3 was contributed by - industrial combustion, agricultural soil management, refrigeration and air conditioning and industries (glass, chemical) activities
+
+Other Emissions included in the pie chart includes –
+(a) 
+Cattle, Horses, Pig and Poultry wastes
+Soil emission (both direct and indirect),
+Drainage of organic soils - settlements
+Waste incineration,
+
+(b)
+Refrigeration and air conditioning,
+
+(c)
+Glass Production,
+Gas flare,
+Chemical Industries, 
+Power stations, 
+Industrial combustion, 
+Manufacture of solid fuels and other energy industries
 
 ---------
 
