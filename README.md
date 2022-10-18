@@ -137,6 +137,13 @@ A continual upwards trend contributing consistently to the greenhouse gases emis
 
 A continual upwards trend contributing consistently to the greenhouse gases emission for agriculture, business, transport and land use -related sector was noted. 
 
+
+## When all the sectors are combined which activities contribute to most emission?
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10%20activities%20by%20users%20irrespective%20of%20sector.png)
+
+Refrigeration & air conditioning, soil emission (direct and indirect), Industrial combustion, agriculture soil management, animal waste management and national navigation (shipping) contributes to most emmsion within the UK.
+
+
 ---------
 
 ## References
