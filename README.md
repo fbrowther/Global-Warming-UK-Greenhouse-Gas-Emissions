@@ -146,7 +146,7 @@ Refrigeration & air conditioning, soil emission (direct and indirect), Industria
 ## What are the fuels whcih contribute to the total emission?
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Fueltype-souces.png)
 
-Burning of the 'actual' fuel contributed to a third of tthe emission in the UK while the remaining 2/3 was contributed by - industrial combustion, agricultural soil management, refrigeration and air conditioning and industries (glass, chemical) activities
+Burning of the 'actual' fuel contributed to a third of the emission in the UK while the remaining 2/3 was contributed by - industrial combustion, agricultural soil management, refrigeration and air conditioning and industries (glass, chemical) activities
 
 Other Emissions included in the pie chart includes –
 (a) 
@@ -165,6 +165,10 @@ Chemical Industries,
 Power stations, 
 Industrial combustion, 
 Manufacture of solid fuels and other energy industries
+
+## Major components of the emission
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Greenhouse%20gases%20by%20Sources.png)
+
 
 ---------
 
