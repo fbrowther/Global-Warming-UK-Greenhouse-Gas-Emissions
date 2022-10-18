@@ -61,13 +61,15 @@ Observations and insights
 ## Results
 
 The two datasets were obtained from 'https://climate-change.data.gov.uk/' cleaned and unnessary columns were taken out before commmencing the analysis.
-First and formost we determined the major sectors that contributored towards the green gas emission for the UK (from 1990-2020). We compared the analysis between sources and end-users dataset. 
+
+First and formost we determined the major sectors that contributed towards the green gas emission for the UK (from 1990-2020). We compared the analysis between sources and end-users dataset. 
+
+![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Greenhouse%20gases%20by%20Sources.png))
 
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Greenhouse%20gases%20by%20endusers.png)
 
-
-
-
+Unlike the popuplar opinion that transport is a major player, this analysis proved that this sector consitutes only 10% of the total while
+87% of the emmision is contributed by the top 4 sectors which includes Agriculture, Business, Transport, Energy and Land related activities.
 
 ---------
 
