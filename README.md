@@ -22,7 +22,7 @@ First and formost, two datasets were obtained from the database, one archived on
  
 ## 3. What are the top 4 contributing sectors?
 
-## 4. What are top 10 activities of the major contributing sectors?
+## 4. What are the activities (top 10) of the major contributing sectors?
 
 ## 5. What is the trend in activities for the major contributing sectors (for the entire timeframe of the dataset)?
 
