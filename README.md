@@ -24,13 +24,13 @@ First and formost, two datasets were obtained from the database, one archived on
 
 ## 4. What are the activities (top 10) of the major contributing sectors?
 
-## 5. What is the trend in activities for the major contributing sectors (for the entire timeframe of the dataset)?
+## 5. What is the trend in the major contributing sectors (for the entire timeframe of the dataset)?
 
 ## 6. When all the sectors combined which activities contribute to most emission?
 
 ## 7. What are the fuels whcih contribute to the total emission?
 
-## 8. Composition of the emission?
+## 8. Major components of the emission?
 
 ## 9. Top emitters of Carbon dioxide?
 
