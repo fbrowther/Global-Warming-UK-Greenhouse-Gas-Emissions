@@ -74,27 +74,36 @@ Unlike the popuplar opinion that transport is a major player, this analysis prov
 
 In order to dive deeper into the four major sectors that are responsible for the 87% of the emission, we grouped together the dataset based on the Agriculture, Business, Transport, Energy & Land related activities and looked at the activities that were performed within these sectors.
 
+# 1st Contributor
 ## Top 10 Agriculture activities that contributed to greenhouse gase emission.
-By Source
+### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20source.png)
-By End-users
+### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20Endusers.png)
+
+# 2nd Contributor
 ## Top 10 Business activities that contributed to greenhouse gase emission.
-By Source
+### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusiActivities-by%20source.png)
-By End-users
+### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusinessActivities-by%20Endusers.png)
+
+# 3rd Contributor
 ## Top 10 Transport sector activities that contributed to greenhouse gase emission.
-By Source
+### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20source.png)
-By End-users
+### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20Endusers.png)
+
+# 4th Contributor
 ## Top 10 Energy sector activities that contributed to greenhouse gase emission.
-By Source
+### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10EnergyActivities-by%20source.png)
 ## Top 10 Land related activities that contributed to greenhouse gase emission.
-By End-users
+### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
+
+
 ---------
 
 ## References
