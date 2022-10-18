@@ -20,16 +20,15 @@ First and formost, two datasets were obtained from the database, one archived on
 
 ## 2. Which end user is responsible for most of our emissions in the UK?
  
-## 3. What are the top 4 contributing sectors in the UK?
+## 3. What are the top 4 contributing sectors?
 
-## 4. What are top 10 activities of the major contributing sectors in the UK?
+## 4. What are top 10 activities of the major contributing sectors?
 
-## 5. What is the trend with regards to the activities of the major contributing sectors in the UK?
-### Did the trend change for the entire timeframe of the dataset?
+## 5. What is the trend (for the entire timeframe of the dataset) regards to the activities of the major contributing sectors?
 
-## 6. All the sectors combined which activities contribute to most emission in the UK?
+## 6. When all the sectors combined which activities contribute to most emission?
 
-## 7. What are the fuels whcih contribute to the total emission in the UK?
+## 7. What are the fuels whcih contribute to the total emission?
 
 ## 8. Composition of the emission?
 
