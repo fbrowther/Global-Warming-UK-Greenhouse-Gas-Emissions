@@ -24,7 +24,7 @@ First and formost, two datasets were obtained from the database, one archived on
 
 ## 4. What are top 10 activities of the major contributing sectors?
 
-## 5. What is the trend (for the entire timeframe of the dataset) regards to the activities of the major contributing sectors?
+## 5. What is the trend in activities for the major contributing sectors (for the entire timeframe of the dataset)?
 
 ## 6. When all the sectors combined which activities contribute to most emission?
 
