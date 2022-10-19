@@ -1,14 +1,26 @@
 # Disclaimer
-In order to not discard any contribution from the team members, i have not taken any file out from the contributors and hence the repository might look messy. Therefore, i am including a list of files that are relevant and important for the final project
-(1)
+In order for us not to discard any contribution from the team members, i have not taken any file out from the contributors and hence the repository might look messy. 
+Therefore, i am including a list of files that are relevant and important for the final project -
 
+### (1) Dataset - All the dataset used in the project are included
+https://github.com/fbrowther/Project-1/tree/main/Resources
+### (2) Resources - All the details of the dataset is included
+https://github.com/fbrowther/Project-1/tree/main/Resources
+### (3) Skeleton plan of the project
+https://github.com/fbrowther/Project-1/blob/main/Skeleton%20Plan%20of%20Approach%20to%20Answering%20Questions.md
 
-
-
+### (4) Analysis file - 
+(https://github.com/fbrowther/Project-1/blob/main/Project-1-FBRowther.ipynb) 
+### (5) Analysis images - All the png files of the analysis are included - 
+https://github.com/fbrowther/Project-1/tree/main/Analysis%20Images
+### (4) Final presentation - 
+(https://github.com/fbrowther/Project-1/blob/main/Project%201%20FBRowther1.pptx)
+### (4) README.md file - 
+https://github.com/fbrowther/Project-1/blob/main/README.md
 
 
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
-DAV Module 7 & 8 - Project 1 Group Challenge
+Module 7 & 8 - Project 1 Group Challenge
 
 ---------
 ## Background 
