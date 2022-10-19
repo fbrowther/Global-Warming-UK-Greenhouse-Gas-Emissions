@@ -9,7 +9,7 @@ Global warming is unfortunately becoming more evident in recent years and is hav
 
 In order to analyze this, we looked specifically at the dataset for UK from 'https://climate-change.data.gov.uk/' data repository for the period of 1990-2020. 
 
-First and formost, two datasets were obtained from the database, one archived on the basis of source of the greenhouse gas emmision and the other archived on the basis of End-users responsible for emission.
+First and foremost, two datasets were obtained from the database, one archived on the basis of source of the greenhouse gas emmision and the other archived on the basis of End-users responsible for emission.
 
 ## Plan
 ## Who, what, where, when?
@@ -61,7 +61,7 @@ First and formost we determined the major sectors that contributed towards the g
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Sectors%20responsible%20-endusers.png)
 
 Unlike the popuplar opinion that transport is a major player, the results show that transport sector consitutes to only 10% of the total while
-87% of the emission is contributed by the top 4 other sectors which include Agriculture, Business, Transport, Energy and Land related activities.
+87% of the emission is contributed by the other 3 sectors which include Agriculture, Business, Energy and Land related activities.
 
 In order to dive deeper into the four major sectors, we grouped together the dataset based on the Agriculture, Business, Transport, Energy & Land related activities using loc function and looked at the activities that were performed within these sectors.
 
@@ -82,7 +82,7 @@ Spreading, Grazing, Storage, Housing, Yarding, Urea application, Ammonium sulpha
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusinessActivities-by%20Endusers.png)
 
-The top 10 activities of the business sector (by source and end-users) involved- 
+The major activities of the business sector (by source and end-users) involved- 
 (1) the use of natural gas, coal, Gas oil, Fuel oil in industrial combustion & 
 (2) the use of Halocarbon bank hfc 134a, Halocarbon used for manufacturing hfc 134a, Halocarbon bank hfc 125, Halocarbon used for manufacturing hfc 125, Halocarbon in products at disposal hfc 134a, Halocarbon bank hfc 32 in refrigeration and air conditioning.
 
@@ -93,20 +93,20 @@ The top 10 activities of the business sector (by source and end-users) involved-
 ### By End-users
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20Endusers.png)
 
-The top 10 activities of the transport sector (by source and end-users) included the use of
+The major activities of the transport sector (by source and end-users) included the use of
 Derv (diesel oil for road vehicles, Petrol, Gas oil, Aviation turbine fuel, Fuel oil, Aviation spirit,           Natural gas, Lubricants, Lpg, Burning oil, Coal, Biodiesel, Urea consumption, and Bio mtbe. These sources were used in HGVs, passenger cars, light duty vehicles, buses, military aircraft, civil aviation, fishing vessels, national navigation, railway combustion, mopeds and motorcycles.
 
 # 4th Contributor
 ## Top 10 Energy sector activities that contributed to greenhouse gase emission (by source).
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10EnergyActivities-by%20source.png)
 
-The top most activties of the energy sector include the use of natural gas, non-fuel combustion, Gas oil, Lpg, Coal, gas flare, Opg, Msw, Coke oven gas, and Fuel oil for power stations, refineries, and manufacturing of solid fuels.                                  
+The major activties of the energy sector include the use of natural gas, non-fuel combustion, Gas oil, Lpg, Coal, gas flare, Opg, Msw, Coke oven gas, and Fuel oil for power stations, refineries, and manufacturing of solid fuels.                                  
 
 
-## Top 10 Land use -related activities that contributed to greenhouse gase emission (by end-users.
+## Top Land use -related activities that contributed to greenhouse gase emission (by end-users.
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
 
-The top most land use -related activties include Non-fuel-combustion and Biomass. 
+The major land use -related activties include Non-fuel-combustion and Biomass. 
 
 Non-fuel consumption - Drainage of organic soils releases CO2 and NO2 into the atmosphere), Farming (Cropland), Wetland - Plants growing in wetlands emit methane to the atmosphere. 
 
@@ -121,7 +121,7 @@ Biomass - Grassland, crop land, forest land and settlements burning
 
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Energy-%20Timeframe%20.png)
 
-In order to identify whether there has been any changes to the activities of the top contributors, the entire dataset was grouped based on sectors and trend in their activities for the entire duration of the dataset was anlaysed. 
+In order to identify whether there has been any changes to the activities of the top contributors, the entire dataset was grouped based on sectors and the trend in their activities for the entire duration of the dataset was anlaysed. 
 
 A continual upwards trend contributing consistently to the greenhouse gases emission by agriculture, business and transport sector was noted. However, in case of the energy sector there has been slow but definite downward movement. UK government's has put forward plans to phase out of UK's coal plants within the next few years and this initiative should see further improvement in this sector.
 
