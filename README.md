@@ -192,7 +192,7 @@ Manufacture of solid fuels and other energy industries
 
 ---------
 ## Major components of the emission -
-![alt text(https://github.com/fbrowther/Project1/blob/main/Analysis%20Images/Greenhouse%20gases%20by%20Sources.png)
+[![alt text(https://github.com/fbrowther/Project1/blob/main/Analysis%20Images/Greenhouse%20gases%20by%20Sources.png)
 
 Greenhouse gases in our dataset agreed with and showed a similar composition of gases to the total emission noted before by other environment protection agencies such as USA. This included CO2 being on the top, followed by Methane, Nitrous oxide and Hydrofluorocarbons. 
 1. Carbon dioxide (CO2)–
