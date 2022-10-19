@@ -1,5 +1,5 @@
 # Disclaimer
-In order for us not to discard any contribution from the team members, i have not taken any file out from the contributors and hence the repository might look messy. 
+In order for us not to discard any contribution from the team members, i have not taken any files out from the contributors and hence the repository might look messy. 
 Therefore, i am including a list of files that are relevant and important for the final project -
 
 ### (1) Dataset - All the dataset used in the project are included
