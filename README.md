@@ -230,7 +230,7 @@ The top emitters for Nitrous oxide include agricultural soil & waste management,
 The sole and the most emitter of hydroflurocarbons include refrigeration and air conditioning
 
 ---------
-## Conclusion on the overall the trends of emissions in the UK
+## Conclusion on the overall trend seen with emissions in the UK
 
 (1) With the help of this project we were able to identify the top most sectors that were contributing to around 90% of the emission. 
 (2) Within these sector we were able to look deeper into what major activities that was responsible for the emission. 
