@@ -1,24 +1,3 @@
-# Disclaimer
-In order for us not to discard any contribution from the team members, i have not taken any files out from the contributors and the repository might look messy. 
-Hence, i am including a list of files that are relevant and important for the final project -
-
-### (1) Dataset - All the dataset used in the project are included
-https://github.com/fbrowther/Project-1/tree/main/Resources
-### (2) Resources - All the details of the dataset is included
-https://github.com/fbrowther/Project-1/tree/main/Resources
-### (3) Skeleton plan of the project
-https://github.com/fbrowther/Project-1/blob/main/Skeleton%20Plan%20of%20Approach%20to%20Answering%20Questions.md
-
-### (4) Analysis file - 
-(https://github.com/fbrowther/Project-1/blob/main/Project-1-FBRowther.ipynb) 
-### (5) Analysis images - All the png files of the analysis are included - 
-https://github.com/fbrowther/Project-1/tree/main/Analysis%20Images
-### (4) Final presentation - 
-(https://github.com/fbrowther/Project-1/blob/main/Project%201%20FBRowther1.pptx)
-### (4) README.md file - 
-https://github.com/fbrowther/Project-1/blob/main/README.md
-
-
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
 Module 7 & 8 - Project 1 Group Challenge
 
@@ -44,15 +23,15 @@ First and foremost, two datasets were obtained from the database, one archived o
 
 ## 2. Which end user is responsible for most of our emissions in the UK?
  
-## 3. What are the top 4 contributing sectors?
+## 3. What are the Top 4 contributing sectors?
 
-## 4. What are the activities (top 10) of the major contributing sectors?
+## 4. What are the activities (Top 10) of the major contributing sectors?
 
 ## 5. What is the trend in the major contributing sectors (for the timeframe of the dataset)?
 
-## 6. When all the sectors are combined which activities contribute to most emission?
+## 6. When all the sectors are combined which activities contribute to the most emissions?
 
-## 7. What are the fuels whcih contribute to the total emission?
+## 7. What fuels contribute to the total emission?
 
 ## 8. Major components of the emission?
 
@@ -125,7 +104,7 @@ Derv (diesel oil for road vehicles, Petrol, Gas oil, Aviation turbine fuel, Fuel
 
 The major activties of the energy sector include the use of natural gas, non-fuel combustion, Gas oil, Lpg, Coal, gas flare, Opg, Msw, Coke oven gas, and Fuel oil for power stations, refineries, and manufacturing of solid fuels.                                  
 
-## Top Land use -related activities that contributed to greenhouse gase emission (by end-users.
+## Top Land use -related activities that contributed to greenhouse gase emission (by end-users).
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
 
 The major land use -related activties include Non-fuel-combustion and Biomass. 
@@ -161,12 +140,12 @@ A continual upwards trend contributing consistently to the greenhouse gases emis
 A continual upwards trend contributing consistently to the greenhouse gases emission for agriculture, business, transport and land use -related sector was noted. 
 
 ---------
-## When all the sectors are combined which activities contribute to most emission?
+## When all the sectors are combined which activities contribute to the most emissions?
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10%20activities%20by%20users%20irrespective%20of%20sector.png)
 
 Refrigeration & air conditioning, soil emission (direct and indirect), Industrial combustion, agriculture soil management, animal waste management and national navigation (shipping) contributes to most emmsion within the UK.
 
-## What are the fuels whcih contribute to the total emission?
+## What fuels contribute to the total emission?
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Fueltype-souces.png)
 
 Burning of the 'actual' fuel contributed to a third of the emission in the UK while the remaining 2/3 was contributed by - industrial combustion, agricultural soil management, refrigeration and air conditioning and industries (glass, chemical) activities
@@ -233,9 +212,13 @@ The sole and the most emitter of hydroflurocarbons include refrigeration and air
 ## Conclusion on the overall trend seen with emissions in the UK
 
 (1) With the help of this project we were able to identify the top most sectors that were contributing to around 90% of the emission. 
+
 (2) Within these sector we were able to look deeper into what major activities that was responsible for the emission. 
+
 (3) We also looked at the trend of the activities of the sectors to see if there has been any changes pertaining to more recent extreme weather conditions. 
+
 (4) Since we noticed an upward trend in the activities of the top responsible sectors, we urge the policy makers to take more stringent measure to both curb and transform the practices of these sectors 
+
 (5) finally we suggest we look into modalities that can be used to capture already released greenhouse gases, from the atmosphere and limit its damage.
 
 ---------
