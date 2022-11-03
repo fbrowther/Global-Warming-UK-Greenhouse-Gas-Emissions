@@ -3,9 +3,9 @@ In order for us not to discard any contribution from the team members, i have no
 Initial look at this repository therefore might look messy. 
 However, I have included a list of files that are relevant and important for the final project submission as follows-
 
-### (1) Dataset - All the dataset used in the project are included
+### (1) Dataset - All the dataset used in the project -
 https://github.com/fbrowther/Project-1/tree/main/Resources
-### (2) Resources - All the details of the dataset is included
+### (2) Resources - All the details of the dataset -
 https://github.com/fbrowther/Project-1/tree/main/Resources
 ### (3) Skeleton plan of the project
 https://github.com/fbrowther/Project-1/blob/main/Skeleton%20Plan%20of%20Approach%20to%20Answering%20Questions.md
