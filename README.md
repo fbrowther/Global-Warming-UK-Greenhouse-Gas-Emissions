@@ -1,7 +1,7 @@
 # Disclaimer
 In order for us not to discard any contribution from the team members, i have not taken any files out from the repository. 
 Initial look at this repository therefore might look messy. 
-However, I have included a list of files that are relevant and important for the final project submission -
+However, I have included a list of files that are relevant and important for the final project submission as follows-
 
 ### (1) Dataset - All the dataset used in the project are included
 https://github.com/fbrowther/Project-1/tree/main/Resources
