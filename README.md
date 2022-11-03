@@ -7,7 +7,7 @@ However, I have included a list of files that are relevant and important for the
 https://github.com/fbrowther/Project-1/tree/main/Resources
 ### (2) Resources - All the details of the dataset -
 https://github.com/fbrowther/Project-1/tree/main/Resources
-### (3) Skeleton plan of the project
+### (3) Skeleton plan of the project -
 https://github.com/fbrowther/Project-1/blob/main/Skeleton%20Plan%20of%20Approach%20to%20Answering%20Questions.md
 
 ### (4) Analysis file - 
