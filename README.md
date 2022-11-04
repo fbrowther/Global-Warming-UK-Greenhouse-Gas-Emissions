@@ -251,7 +251,7 @@ https://www.futurelearn.com/info/blog/greenhouse-gases-emissions-environment
 
 ---------
 Team Head -
-Dr. Farjana Rowther (BSc, MSc, PhD) (fbrowther)
+Dr. Farjana Rowther (fbrowther)
 
 Other group members -
 * Navindeep Bains (navinbains)
