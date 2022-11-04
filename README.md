@@ -41,7 +41,7 @@ First and foremost, two datasets were obtained from the database, one archived o
 
 ![ghgskeleton](Images/maxresdefault.jpeg)
 
-## 1. Which sector(s) are responsible for most of our emissions in the UK? 
+## 1. Which sectors are responsible for most of our emissions in the UK? 
 
 ## 2. Which end user is responsible for most of our emissions in the UK?
  
