@@ -32,7 +32,7 @@ Global warming is unfortunately becoming more evident in recent years and is hav
 
 In order to analyze this, we looked specifically at the dataset for UK from 'https://climate-change.data.gov.uk/' data repository for the period of 1990-2020. 
 
-First and foremost, two datasets were obtained from the database, one archived on the basis of source of the greenhouse gas emmision and the other archived on the basis of end-users responsible for emission.
+First and foremost, two datasets were obtained from the database, one archived on the basis of source of the greenhouse gas emission and the other archived on the basis of end-users responsible for emission.
 
 ---------
 ## Plan
