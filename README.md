@@ -32,18 +32,18 @@ First and foremost, two datasets were obtained from the database, one archived o
 
 ## 7. What are the fuels whcih contribute to the total emission?
 
-## 8. Major components of the emission?
+## 8. Whcih are major components of the emission?
 
-## 9. Top emitters of Carbon dioxide?
+## 9. What are top emitters of Carbon dioxide?
 
-## 10. Top emitters of Methane?
+## 10. What are top emitters of Methane?
 
-## 11. Top emitters of Nitrous oxide?
+## 11. What are top emitters of Nitrous oxide?
 
-## 12. Top emitters of Hydroflurocarbons?
+## 12. What are top emitters of Hydroflurocarbons?
 
-## 13. Conclude the trends of overall emissions in the UK
-Observations and insights
+## 13. Conclusions on the trends of overall emissions in the UK; including observations and insights
+
 
 ---------
 [Project 1 Rubric](https://docs.google.com/document/d/1fPa8EXPb5caZyzG2EdhzyWyhta9jC62siFMctNCvKog/edit)
