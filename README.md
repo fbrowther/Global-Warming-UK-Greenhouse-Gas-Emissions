@@ -1,7 +1,6 @@
 # Project 1: Global Warming – UK Greenhouse Gas Emissions
-Module 7 & 8 - Project 1 Group Challenge
-
 ---------
+
 ## Background 
 
 ![greenhousegas](Images/greenhouse-gas-emissions-606x303.jpeg)
