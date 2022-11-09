@@ -227,7 +227,7 @@ https://beta.gss-data.org.uk/cube/explore?uri=http%3A%2F%2Fgss-data.org.uk%2Fdat
 https://www.futurelearn.com/info/blog/greenhouse-gases-emissions-environment
 
 ---------
-Team Lead & Main contributor-
+Team Lead (main contributor) -
 Dr. Farjana Rowther (fbrowther)
 
 Other group members -
