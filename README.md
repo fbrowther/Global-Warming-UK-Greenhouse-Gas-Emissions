@@ -18,31 +18,31 @@ First and foremost, two datasets were obtained from the database, one archived o
 
 ![ghgskeleton](Images/maxresdefault.jpeg)
 
-## 1. Which sectors are responsible for most of our emissions in the UK? 
+### 1. Which sectors are responsible for most of our emissions in the UK? 
 
-## 2. Which end user is responsible for most of our emissions in the UK?
+### 2. Which end user is responsible for most of our emissions in the UK?
  
-## 3. What are the top 4 contributing sectors?
+### 3. What are the top 4 contributing sectors?
 
-## 4. What are the activities (top 10) of the major contributing sectors?
+### 4. What are the activities (top 10) of the major contributing sectors?
 
-## 5. What is the trend in the major contributing sectors (for the timeframe of the dataset)?
+### 5. What is the trend in the major contributing sectors (for the timeframe of the dataset)?
 
-## 6. When all the sectors are combined which activities contribute to most emission?
+### 6. When all the sectors are combined which activities contribute to most emission?
 
-## 7. What are the fuels whcih contribute to the total emission?
+### 7. What are the fuels whcih contribute to the total emission?
 
-## 8. Whcih are major components of the emission?
+### 8. Whcih are major components of the emission?
 
-## 9. What are top emitters of Carbon dioxide?
+### 9. What are top emitters of Carbon dioxide?
 
-## 10. What are top emitters of Methane?
+### 10. What are top emitters of Methane?
 
-## 11. What are top emitters of Nitrous oxide?
+### 11. What are top emitters of Nitrous oxide?
 
-## 12. What are top emitters of Hydroflurocarbons?
+### 12. What are top emitters of Hydroflurocarbons?
 
-## 13. Conclusions on the trends of overall emissions in the UK; including observations and insights
+### 13. Conclusions on the trends of overall emissions in the UK; including observations and insights
 
 
 ---------
