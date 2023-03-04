@@ -1,4 +1,4 @@
-# Project 1: Global Warming – UK Greenhouse Gas Emissions
+# Global Warming – UK Greenhouse Gas Emissions
 ---------
 
 ## Background 
