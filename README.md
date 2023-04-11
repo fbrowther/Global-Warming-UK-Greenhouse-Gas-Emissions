@@ -211,9 +211,13 @@ The sole and the most emitter of hydroflurocarbons include refrigeration and air
 ## Conclusion on the overall trend seen with emissions in the UK
 
 (1) With the help of this project we were able to identify the top most sectors that were contributing to around 90% of the emission. 
-(2) Within these sector we were able to look deeper into what major activities that was responsible for the emission. 
+
+(2) Within these sector we were able to look deeper into what major activities that was responsible for the emission.
+
 (3) We also looked at the trend of the activities of the sectors to see if there has been any changes pertaining to more recent extreme weather conditions. 
+
 (4) Since we noticed an upward trend in the activities of the top responsible sectors, we urge the policy makers to take more stringent measure to both curb and transform the practices of these sectors 
+
 (5) finally we suggest we look into modalities that can be used to capture already released greenhouse gases, from the atmosphere and limit its damage.
 
 ---------
