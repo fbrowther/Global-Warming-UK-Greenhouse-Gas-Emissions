@@ -87,7 +87,7 @@ The major activities of the business sector (by source and end-users) involved-
 
 ---------
 # 3rd Contributor
-## Top 10 Transport sector activities that contributed to greenhouse gase emission.
+## Top 10 Transport sector activities that contributed to greenhouse gas emission.
 ### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10TransportActivities-by%20source.png)
 ### By End-users
