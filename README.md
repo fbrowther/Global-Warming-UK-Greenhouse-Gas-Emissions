@@ -64,7 +64,7 @@ In order to dive deeper into the four major sectors, we grouped together the dat
 
 ---------
 # 1st Contributor
-## Top 10 Agricultural activities that contributed to greenhouse gase emissions.
+## Top 10 Agricultural activities that contributed to greenhouse gas emissions.
 ### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10AgriActivities-by%20source.png)
 ### By End-users
@@ -75,7 +75,7 @@ Spreading, Grazing, Storage, Housing, Yarding, Urea application, Ammonium sulpha
 
 ---------
 # 2nd Contributor
-## Top 10 Business activities that contributed to greenhouse gase emission.
+## Top 10 Business activities that contributed to greenhouse gas emission.
 ### By Source
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10BusiActivities-by%20source.png)
 ### By End-users
@@ -98,12 +98,12 @@ Derv (diesel oil for road vehicles, Petrol, Gas oil, Aviation turbine fuel, Fuel
 
 ---------
 # 4th Contributor
-## Top 10 Energy sector activities that contributed to greenhouse gase emission (by source).
+## Top 10 Energy sector activities that contributed to greenhouse gas emission (by source).
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10EnergyActivities-by%20source.png)
 
 The major activties of the energy sector include the use of natural gas, non-fuel combustion, Gas oil, Lpg, Coal, gas flare, Opg, Msw, Coke oven gas, and Fuel oil for power stations, refineries, and manufacturing of solid fuels.                                  
 
-## Top Land use -related activities that contributed to greenhouse gase emission (by end-users.
+## Top Land use -related activities that contributed to greenhouse gas emission (by end-users.
 ![alt text](https://github.com/fbrowther/Project-1/blob/main/Analysis%20Images/Top10LandActivities-by%20Endusers.png)
 
 The major land use -related activties include Non-fuel-combustion and Biomass. 
